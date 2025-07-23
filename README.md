@@ -99,6 +99,7 @@ My Approach:
 
 ### 5. Project Notebook
 Explore the full analysis in the Jupyter notebook:[View PDF](assets/notebook/Tech_Fellow_Task.pdf)
+
 View the Jupyter notebook locally: [View Google Colab](https://colab.research.google.com/github/Melanie331/ili_surveillance_kenya/blob/main/assets/notebook/Tech_Fellow_Task.ipynb)
 
 
